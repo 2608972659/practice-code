@@ -1,0 +1,3 @@
+﻿  实验1.cpp
+D:\实验1\实验1.cpp(39,20): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  实验1.vcxproj -> D:\实验1\x64\Debug\实验1.exe
